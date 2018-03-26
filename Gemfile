@@ -1,5 +1,6 @@
 source 'http://rubygems.org/'
 
+gem 'i18n'
 gem 'sinatra'
 gem 'sinatra-activerecord'
 gem 'dotenv'
@@ -16,6 +17,11 @@ gem 'sinatra-cross_origin'
 gem 'rest-client'
 gem 'rubocop'
 gem 'rest-client'
+gem 'thin'
+gem 'require_all'
+gem 'jwt'
+gem 'lhm'
+gem 'racksh'
 
 group :development do
  gem 'pry'
@@ -23,4 +29,5 @@ end
 
 group :test do
  gem 'rspec'
+ gem 'rack-test'
 end
