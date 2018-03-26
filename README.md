@@ -1,7 +1,7 @@
 # Sinatra REST API Example
 
 **Requirement**
-1. MySQL
+1. MySQL 5.7+
 2. RUBY 2.3.0
 
 **Installation**
