@@ -2,7 +2,7 @@
 
 **Requirement**
 1. MySQL 5.7+
-2. RUBY 2.3.0
+2. RUBY 2.3.0a
 
 **Installation**
 
