@@ -1,5 +1,7 @@
 # Sinatra REST API Example
 
+- [ ] test
+
 **Requirement**
 1. MySQL 5.7+
 2. RUBY 2.3.0
